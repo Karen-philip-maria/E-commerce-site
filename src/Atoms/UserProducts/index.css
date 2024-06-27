@@ -1,0 +1,44 @@
+
+.body{
+    background-color: darkslategray;
+    color: white;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.furniture{
+font-size: 34px;
+font-weight: bolder;
+margin-left: 23px;
+}
+.navbar{
+    display: flex;
+    font-size: 15px;
+    gap: 5%;
+    margin-top: 33px;
+}
+button{
+    border-radius: 22px;
+    width: 15%;
+    height: 43px;
+    margin-top: 2%;
+    margin-left: 23px;
+}
+h1{
+    width: 32%;
+    font-size: 24px;
+    margin-left: 23px;
+}
+.productInformation{
+    width: 30%;
+    margin-left: 23px;
+}
+.instagram{
+margin-left: 18%;
+margin-top: -2%;
+}
+.certifiedOutlets{
+    display: flex;
+    gap: 5%;
+    margin-left: 23px;
+    margin-top: 23px;
+}
