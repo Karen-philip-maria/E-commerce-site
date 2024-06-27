@@ -1,15 +1,10 @@
 import './index.css';
 import { getProducts } from '../../ProductCategories/utils';
 import "./index.css";
-import { FaSearch } from "react-icons/fa";
+
 import { SlLike } from "react-icons/sl";
 import { RiContactsFill } from "react-icons/ri";
 import { BiShoppingBag } from "react-icons/bi";
-import { RiCaravanFill } from "react-icons/ri";
-import { FaRegClock } from "react-icons/fa";
-import { FaRotate } from "react-icons/fa6";
-import { FaArrowRightLong } from "react-icons/fa6";
-import { BsCartPlus } from "react-icons/bs";
 
 
 const NavbarLanding=()=>{
@@ -27,7 +22,7 @@ const NavbarLanding=()=>{
         <ol>Blog</ol>
         </div>
         <div id='icons'>
-        <FaSearch/>
+        
        <SlLike />
        <RiContactsFill />
        <BiShoppingBag />
