@@ -1,12 +1,11 @@
-import NavbarLanding from "./Atoms/UserProducts";
-import ClothesList from "./ProductCategories/hooks";
-import React from "react";
+import NavbarLanding from "./EcommerceSite";
+import Products from "./Products";
 
 function App() {
   return (
     <div className="App">
- <NavbarLanding/>
- <ClothesList/>
+    <NavbarLanding/>
+    <Products/>
     </div>
   );
 }

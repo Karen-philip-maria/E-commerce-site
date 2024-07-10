@@ -1,0 +1,15 @@
+.product-images{
+     display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    font-size: small;
+    gap: 8px;
+    margin-left: 5%;
+}
+.product-images img{
+    width: 50%;
+    height: 50%;
+}
+
+
+
+
